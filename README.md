@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Lawrence-gg
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning... React
-- 💞️ In my spare time I like cooking, going to the gym and playing video games
+- 💞️ In my spare time I like cooking, spending time with friends and family, and playing video games
 - 📫 How to reach me ... have long arms
 
 <!---
