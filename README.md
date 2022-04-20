@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Lawrence-gg
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning HTML, CSS & Javascript
+- 🌱 I’m currently learning... React
 - 💞️ In my spare time I like cooking, going to the gym and playing video games
-- 📫 How to reach me ...
+- 📫 How to reach me ... have long arms
 
 <!---
 Lawrence-gg/Lawrence-gg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
